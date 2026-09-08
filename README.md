@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Siti Maryatul Aminiah 👋
 
-<!--
-**Ryaaaaaaaaaa/Ryaaaaaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Informatics Engineering Graduate passionate about **Web Development** and **Artificial Intelligence**. Experienced in building web platforms using **Laravel** and implementing **Retrieval-Augmented Generation (RAG)** systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** PHP, Python, JavaScript, HTML/CSS, SQL
+- **Frameworks & Tools:** Laravel, Git/GitHub, VS Code, MySQL
+- **AI & ML Interests:** Retrieval-Augmented Generation (RAG), Natural Language Processing
+
+---
+
+### 📂 Featured Projects
+- **RAG-based AI System:** An AI chatbot integration built for intelligent information retrieval.
+- **KKL Information System:** A comprehensive web platform for managing internship/fieldwork administration.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Siti Maryatul Aminiah](https://linkedin.com/in/siti-maryatul-aminiah)
+- **Email:** sitimaryatulaminiyah@gmail.com
