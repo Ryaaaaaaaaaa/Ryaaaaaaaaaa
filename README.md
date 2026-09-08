@@ -20,4 +20,3 @@ An Informatics Engineering Graduate passionate about **Web Development** and **A
 ### 📫 Connect with Me
 - **LinkedIn:** [Siti Maryatul Aminiah](https://linkedin.com/in/siti-maryatul-aminiah)
 - **Email:** sitimaryatulaminiyah@gmail.com
-- 
