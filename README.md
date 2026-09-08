@@ -1,31 +1,32 @@
-# Hi there, I'm Siti Maryatul Aminiah 👋
+# 🎓 KKL Information System with AI Chatbot (RAG Architecture)
 
-An Informatics Engineering Graduate passionate about **Web Development** and **Artificial Intelligence**. Experienced in building web platforms using **Laravel** and implementing **Retrieval-Augmented Generation (RAG)** systems.
-
----
-
-### 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+Sistem Informasi Kuliah Kerja Lapangan (KKL) berbasis web yang terintegrasi dengan **AI Chatbot** menggunakan metode **Retrieval-Augmented Generation (RAG)**. Sistem ini dirancang untuk mempermudah administrasi KKL sekaligus menyediakan asisten cerdas otomatis yang menjawab pertanyaan pengguna berdasarkan basis pengetahuan (*knowledge base*) dokumen internal.
 
 ---
 
-### 📂 Featured Projects
-- **RAG-based AI System:** An AI chatbot integration built for intelligent information retrieval.
-- **KKL Information System:** A comprehensive web platform for managing internship/fieldwork administration.
+## 🛠️ Tech Stack & Architecture
+- **Web Framework:** PHP (Laravel)
+- **AI Architecture:** Python & Retrieval-Augmented Generation (RAG)
+- **Database:** MySQL
+- **Frontend:** Blade, HTML5, CSS3, JavaScript
+- **Version Control:** Git & GitHub
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:** [Siti Maryatul Aminiah](https://linkedin.com/in/siti-maryatul-aminiah)
-- **Email:** sitimaryatulaminiyah@gmail.com
+## ✨ Fitur Utama
+1. **Sistem Informasi KKL:**
+   - Manajemen pendaftaran, verifikasi berkas, dan administrasi KKL.
+   - Dashboard pengelolaan data mahasiswa dan koordinator/admin.
+2. **AI Chatbot (RAG Integrated):**
+   - Pencarian dan ekstraksi konteks dari dokumen panduan KKL secara otomatis.
+   - Generasi jawaban relevan dan kontekstual tanpa rekayasa data (*hallucination-free*).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryaaaaaaaaaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryaaaaaaaaaa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+---
+
+## 💻 Cara Menjalankan Proyek Lokal
+
+1. **Clone repository:**
+   ```bash
+   git clone [https://github.com/USERNAME-KAMU/kkl-information-system-rag.git](https://github.com/USERNAME-KAMU/kkl-information-system-rag.git)
+   cd kkl-information-system-rag
+   
